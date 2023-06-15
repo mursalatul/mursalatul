@@ -46,6 +46,4 @@
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mursalatul&" alt="mursalatul" /></p>
 
-<!--  wakatime state  -->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mursalatul&layout=compact" alt="mursalatul" /></p>
 </div>
