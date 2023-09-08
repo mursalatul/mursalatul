@@ -57,3 +57,6 @@
 </div>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=mursalatul&label=Profile%20views&color=0e75b6&style=flat" alt="mursalatul" /> </p>
+<img src="https://raw.githubusercontent.com/mursalatul/mursalatul/output/snake.svg" alt="Snake animation" />
+
+###
