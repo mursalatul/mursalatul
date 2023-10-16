@@ -43,6 +43,4 @@
 <div align="left">
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=mursalatul&" alt="mursalatul" /></p>
 </div>
-
-[![An image of @mursalatul's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mursalatul)](https://holopin.io/@mursalatul)
 ###
