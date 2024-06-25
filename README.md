@@ -11,7 +11,7 @@
 
 - 🧟 Works on different types of projects.   
 
-- 👨‍💻 All of my projects are available at [https://mursalatul.github.io/](https://mursalatul.github.io/)
+<!-- - 👨‍💻 All of my projects are available at [https://mursalatul.github.io/](https://mursalatul.github.io/)
 
 - Problem solving profile :  <a href="https://www.stopstalk.com/user/profile/mursalatul">StopStalk</a>
 
@@ -28,7 +28,7 @@
 - ⚡ Fun fact **01001001 00100000 01110100 01101000 01101001 01101110 01101011 00100000 01101001 00100000 01100001 01101101 00100000 01100001 00100000 01110010 01101111 01100010 01101111 01110100 00101110 🤪**
 
 
-
+-->
 
   
 <div align="left">
