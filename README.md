@@ -1,5 +1,5 @@
 <!-- heading -->
-<h1 align="center">Hi 👋, I'm Pallob</h1>
+<h1 align="center">Hi 👋, I'm Mardan Aqaei</h1>
 
 <!-- about -->
 <h3 align="center">An explorer, who is exploring the world of programming.</h3>
